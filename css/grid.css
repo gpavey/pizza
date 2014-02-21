@@ -56,7 +56,11 @@
 	display:block;font-size:0;
 	line-he´ight:0;
 	visibility:hidden;
-	width:0;height:0}* html .clearfix,*:first-child+html .clearfix{zoom:1
+	width:0;height:0}* html
+
+.clearfix,*:first-child+html 
+
+.clearfix{zoom:1
 	}
 
 
